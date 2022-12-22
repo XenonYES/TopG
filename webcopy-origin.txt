@@ -1,0 +1,40 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\djsocials.ga\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://djsocials.ga/
+File Name: C:\Downloaded Web Sites\djsocials.ga\index.htm
+Content Type: text/html
+
+Uri: https://djsocials.ga/css/reset.min.css
+File Name: C:\Downloaded Web Sites\djsocials.ga\css\reset.min.css
+Content Type: text/css
+
+Uri: https://djsocials.ga/css/style.css
+File Name: C:\Downloaded Web Sites\djsocials.ga\css\style.css
+Content Type: text/css
+
+Uri: https://djsocials.ga/favicon.ico
+File Name: C:\Downloaded Web Sites\djsocials.ga\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://djsocials.ga/js/security/1.js
+File Name: C:\Downloaded Web Sites\djsocials.ga\js\security\1.js
+Content Type: application/javascript
+
+Uri: https://djsocials.ga/js/security/btc.js
+File Name: C:\Downloaded Web Sites\djsocials.ga\js\security\btc.js
+Content Type: application/javascript
+
+Uri: https://djsocials.ga/js/security/index.js
+File Name: C:\Downloaded Web Sites\djsocials.ga\js\security\index.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Share+Tech+Mono
+File Name: C:\Downloaded Web Sites\djsocials.ga\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/sharetechmono/v15/J7aHnp1uDWRBEqV98dVQztYldFcLowEA.ttf
+File Name: C:\Downloaded Web Sites\djsocials.ga\s\sharetechmono\v15\J7aHnp1uDWRBEqV98dVQztYldFcLowEA.ttf
+Content Type: font/ttf
+
